@@ -1,5 +1,5 @@
 # MedFr_sample
-This repository contains the sample code from my project at Vanderbilt's Data Science Institute.
+This repository contains sample code from my project at Vanderbilt's Data Science Institute. The files titled UI_Design.webm and Example_Usage.webm are screen recordings demonstrating the app's design and functionality.
 
 # Website:
 https://medieval-french.streamlit.app/
