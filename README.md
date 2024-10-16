@@ -1,5 +1,5 @@
 # MedFr_sample
-This repository contains sample code from my project at Vanderbilt's Data Science Institute.
+This repository contains sample code from my project at Vanderbilt's Data Science Institute. The files named "UI_Design.webm" and "Example_Usage.webm" are screen recordings demonstrating the app's design and functionality.
 
 # Website:
 https://medieval-french.streamlit.app/
@@ -16,5 +16,7 @@ We are utilizing text documents containing Medieval French and their English tra
 # Models
 We are using Google’s Gemini 1 & 1.5 models for this project. The application will rely on Gemini's API for the core functionality of translating and generating Medieval French text.
 
-[Example_Usage.mov](https://github.com/user-attachments/assets/54c4b897-5dd9-4dd8-8da3-6e72a92689b8)
-[UI_Design.mov](https://github.com/user-attachments/assets/8d45ef96-b05d-4028-a497-e2eef63b1af5)
+[UI_Design.webm](https://github.com/user-attachments/assets/8d45ef96-b05d-4028-a497-e2eef63b1af5)
+
+[Example_Usage.webm](https://github.com/user-attachments/assets/54c4b897-5dd9-4dd8-8da3-6e72a92689b8)
+
