@@ -1,6 +1,9 @@
 # MedFr_sample
 This repository contains the sample code from my project at Vanderbilt's Data Science Institute.
 
+# Website:
+https://medieval-french.streamlit.app/
+
 # Goal
 In this sample code, I aim to explore the capabilities of Google's Gemini models to effectively translate Medieval French to English and vice-versa, including several dialects of Medieval French. Our final deliverable is an application that integrates the Gemini API into a UI for translation purposes.
 
